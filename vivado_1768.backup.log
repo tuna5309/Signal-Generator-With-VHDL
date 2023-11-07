@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Aug  9 16:38:27 2023
+# Process ID: 1768
+# Current directory: C:/Users/Neta/Desktop/pro/mcpdac
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2588 C:\Users\Neta\Desktop\pro\mcpdac\mcpdac.xpr
+# Log file: C:/Users/Neta/Desktop/pro/mcpdac/vivado.log
+# Journal file: C:/Users/Neta/Desktop/pro/mcpdac\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Neta/Desktop/pro/mcpdac/mcpdac.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+open_project: Time (s): cpu = 00:00:13 ; elapsed = 00:00:06 . Memory (MB): peak = 774.590 ; gain = 129.102
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Aug  9 16:51:24 2023...

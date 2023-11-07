@@ -1,0 +1,21 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../mcpdac.srcs/sources_1/ip/clk_wiz_0_3/clk_wiz_0_sim_netlist.vhdl" \
+"../../../../mcpdac.srcs/sources_1/new/uart/baudratesel.vhd" \
+"../../../../mcpdac.srcs/sources_1/new/kgen.vhd" \
+"../../../../mcpdac.srcs/sources_1/new/mcpdac.vhd" \
+"../../../../mcpdac.srcs/sources_1/new/sawgen.vhd" \
+"../../../../mcpdac.srcs/sources_1/new/sevensegment.vhd" \
+"../../../../mcpdac.srcs/sources_1/new/sinwave.vhd" \
+"../../../../mcpdac.srcs/sources_1/new/spi_interface.vhd" \
+"../../../../mcpdac.srcs/sources_1/new/top.vhd" \
+"../../../../mcpdac.srcs/sources_1/new/triangular.vhd" \
+"../../../../mcpdac.srcs/sources_1/new/uart/uart_rx.vhd" \
+"../../../../mcpdac.srcs/sources_1/new/uart_spi_top.vhd" \
+"../../../../mcpdac.srcs/sources_1/new/uart_to_spi.vhd" \
+"../../../../mcpdac.srcs/sources_1/new/uart/uart_tx.vhd" \
+"../../../../mcpdac.srcs/sources_1/new/waveselect.vhd" \
+"../../../../mcpdac.srcs/sim_1/new/test.vhd" \
+
+# Do not sort compile order
+nosort

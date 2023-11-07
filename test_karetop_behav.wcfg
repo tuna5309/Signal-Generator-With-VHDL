@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="test_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="test" />
+            <top_module name="vcomponents" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="646388333334fs"></ZoomStartTime>
+      <ZoomEndTime time="971388333335fs"></ZoomEndTime>
+      <Cursor1Time time="825555000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="193"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="36" />
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/i_reset" type="logic">
+      <obj_property name="ElementShortName">i_reset</obj_property>
+      <obj_property name="ObjectShortName">i_reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/i_clk" type="logic">
+      <obj_property name="ElementShortName">i_clk</obj_property>
+      <obj_property name="ObjectShortName">i_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/i_buton_freq_up" type="logic">
+      <obj_property name="ElementShortName">i_buton_freq_up</obj_property>
+      <obj_property name="ObjectShortName">i_buton_freq_up</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/i_buton_freq_down" type="logic">
+      <obj_property name="ElementShortName">i_buton_freq_down</obj_property>
+      <obj_property name="ObjectShortName">i_buton_freq_down</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/s_CS" type="logic">
+      <obj_property name="ElementShortName">s_CS</obj_property>
+      <obj_property name="ObjectShortName">s_CS</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/i_buton_up_pwm" type="logic">
+      <obj_property name="ElementShortName">i_buton_up_pwm</obj_property>
+      <obj_property name="ObjectShortName">i_buton_up_pwm</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/i_buton_down_pwm" type="logic">
+      <obj_property name="ElementShortName">i_buton_down_pwm</obj_property>
+      <obj_property name="ObjectShortName">i_buton_down_pwm</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/o_sqout" type="array">
+      <obj_property name="ElementShortName">o_sqout[10:0]</obj_property>
+      <obj_property name="ObjectShortName">o_sqout[10:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/o_square_freq" type="array">
+      <obj_property name="ElementShortName">o_square_freq[15:0]</obj_property>
+      <obj_property name="ObjectShortName">o_square_freq[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/frequ" type="other">
+      <obj_property name="ElementShortName">frequ</obj_property>
+      <obj_property name="ObjectShortName">frequ</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/freq" type="other">
+      <obj_property name="ElementShortName">freq</obj_property>
+      <obj_property name="ObjectShortName">freq</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/square_freq" type="other">
+      <obj_property name="ElementShortName">square_freq</obj_property>
+      <obj_property name="ObjectShortName">square_freq</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/pwm_duty" type="other">
+      <obj_property name="ElementShortName">pwm_duty</obj_property>
+      <obj_property name="ObjectShortName">pwm_duty</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/pwm_limit" type="other">
+      <obj_property name="ElementShortName">pwm_limit</obj_property>
+      <obj_property name="ObjectShortName">pwm_limit</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/counter" type="other">
+      <obj_property name="ElementShortName">counter</obj_property>
+      <obj_property name="ObjectShortName">counter</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/cs_counter" type="other">
+      <obj_property name="ElementShortName">cs_counter</obj_property>
+      <obj_property name="ObjectShortName">cs_counter</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/sqout" type="array">
+      <obj_property name="ElementShortName">sqout[10:0]</obj_property>
+      <obj_property name="ObjectShortName">sqout[10:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/high" type="other">
+      <obj_property name="ElementShortName">high</obj_property>
+      <obj_property name="ObjectShortName">high</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/low" type="other">
+      <obj_property name="ElementShortName">low</obj_property>
+      <obj_property name="ObjectShortName">low</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/i_buton_freq_up_d1" type="logic">
+      <obj_property name="ElementShortName">i_buton_freq_up_d1</obj_property>
+      <obj_property name="ObjectShortName">i_buton_freq_up_d1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/i_buton_freq_up_re" type="logic">
+      <obj_property name="ElementShortName">i_buton_freq_up_re</obj_property>
+      <obj_property name="ObjectShortName">i_buton_freq_up_re</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/i_buton_freq_down_d1" type="logic">
+      <obj_property name="ElementShortName">i_buton_freq_down_d1</obj_property>
+      <obj_property name="ObjectShortName">i_buton_freq_down_d1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/i_buton_freq_down_re" type="logic">
+      <obj_property name="ElementShortName">i_buton_freq_down_re</obj_property>
+      <obj_property name="ObjectShortName">i_buton_freq_down_re</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/i_buton_up_pwm_d1" type="logic">
+      <obj_property name="ElementShortName">i_buton_up_pwm_d1</obj_property>
+      <obj_property name="ObjectShortName">i_buton_up_pwm_d1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/i_buton_up_pwm_re" type="logic">
+      <obj_property name="ElementShortName">i_buton_up_pwm_re</obj_property>
+      <obj_property name="ObjectShortName">i_buton_up_pwm_re</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/i_buton_down_pwm_d1" type="logic">
+      <obj_property name="ElementShortName">i_buton_down_pwm_d1</obj_property>
+      <obj_property name="ObjectShortName">i_buton_down_pwm_d1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/i_buton_down_pwm_re" type="logic">
+      <obj_property name="ElementShortName">i_buton_down_pwm_re</obj_property>
+      <obj_property name="ObjectShortName">i_buton_down_pwm_re</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/s_CS_d1" type="logic">
+      <obj_property name="ElementShortName">s_CS_d1</obj_property>
+      <obj_property name="ObjectShortName">s_CS_d1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/s_CS_re" type="logic">
+      <obj_property name="ElementShortName">s_CS_re</obj_property>
+      <obj_property name="ObjectShortName">s_CS_re</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/dividend_i" type="array">
+      <obj_property name="ElementShortName">dividend_i[19:0]</obj_property>
+      <obj_property name="ObjectShortName">dividend_i[19:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/divisor_i" type="array">
+      <obj_property name="ElementShortName">divisor_i[19:0]</obj_property>
+      <obj_property name="ObjectShortName">divisor_i[19:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/squ_state" type="other">
+      <obj_property name="ElementShortName">squ_state</obj_property>
+      <obj_property name="ObjectShortName">squ_state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/but_freq_state" type="other">
+      <obj_property name="ElementShortName">but_freq_state</obj_property>
+      <obj_property name="ObjectShortName">but_freq_state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/but_pwm_state" type="other">
+      <obj_property name="ElementShortName">but_pwm_state</obj_property>
+      <obj_property name="ObjectShortName">but_pwm_state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/freq_last" type="other">
+      <obj_property name="ElementShortName">freq_last</obj_property>
+      <obj_property name="ObjectShortName">freq_last</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_top/mcpdac_inst/wave_sel_port/kare_port/qoutduty_lim" type="other">
+      <obj_property name="ElementShortName">qoutduty_lim</obj_property>
+      <obj_property name="ObjectShortName">qoutduty_lim</obj_property>
+   </wvobject>
+</wave_config>

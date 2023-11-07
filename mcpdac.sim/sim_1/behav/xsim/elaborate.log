@@ -1,0 +1,48 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 448e0738ee04464a8875ed84f580f722 --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot test_behav xil_defaultlib.test xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package xpm.vcomponents
+Compiling package ieee.numeric_std
+Compiling package unisim.vcomponents
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_signed
+Compiling package ieee.std_logic_unsigned
+Compiling package ieee.vital_timing
+Compiling package ieee.vital_primitives
+Compiling package unisim.vpkg
+Compiling package vl.vl_types
+Compiling module xil_defaultlib.glbl
+Compiling architecture tuna of entity xil_defaultlib.baudsel [baudsel_default]
+Compiling architecture uartx of entity xil_defaultlib.uart_tx [uart_tx_default]
+Compiling architecture uartrx of entity xil_defaultlib.uart_rx [uart_rx_default]
+Compiling architecture behavioral of entity xil_defaultlib.uart_to_spi [uart_to_spi_default]
+Compiling architecture behavioral of entity xil_defaultlib.uart_spi_top [uart_spi_top_default]
+Compiling architecture design of entity xil_defaultlib.spi_interface [spi_interface_default]
+Compiling architecture kgendes of entity xil_defaultlib.kgen [kgen_default]
+Compiling architecture behavioral of entity xil_defaultlib.sinwave [sinwave_default]
+Compiling architecture behavioral of entity xil_defaultlib.triangular [triangular_default]
+Compiling architecture behavioral of entity xil_defaultlib.sawgen [sawgen_default]
+Compiling architecture behavioral of entity xil_defaultlib.sevensegment [sevensegment_default]
+Compiling module xpm.xpm_cdc_array_single(DEST_SYNC_F...
+Compiling module xpm.xpm_cdc_array_single(DEST_SYNC_F...
+Compiling module xpm.xpm_cdc_single(DEST_SYNC_FF=4,IN...
+Compiling architecture behavioral of entity xil_defaultlib.waveselect [waveselect_default]
+Compiling architecture design of entity xil_defaultlib.mcpdac [mcpdac_default]
+Compiling module xpm.xpm_cdc_sync_rst(DEST_SYNC_FF=4,...
+Compiling architecture bufg_v of entity unisim.BUFG [bufg_default]
+Compiling architecture ibuf_v of entity unisim.IBUF [\IBUF(1,9)(1,1)(1,4)(1,7)\]
+Compiling architecture plle2_adv_v of entity unisim.PLLE2_ADV [\PLLE2_ADV(clkfbout_mult=9,clkin...]
+Compiling architecture structure of entity xil_defaultlib.clk_wiz_0_clk_wiz_0_clk_wiz [clk_wiz_0_clk_wiz_0_clk_wiz_defa...]
+Compiling architecture structure of entity xil_defaultlib.clk_wiz_0 [clk_wiz_0_default]
+Compiling architecture behavioral of entity xil_defaultlib.top [top_default]
+Compiling architecture behavioral of entity xil_defaultlib.test
+Built simulation snapshot test_behav
